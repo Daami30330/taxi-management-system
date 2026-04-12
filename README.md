@@ -62,7 +62,7 @@ This project simulates a full-scale taxi fleet management system using a relatio
 
 ## Documentation
 
-📝 Full system design and table specifications are in [`Documentation.docx`](./Documentation.docx)
+ Full system design and table specifications are in [`Documentation.docx`](./Documentation.docx)
 
 ---
 
